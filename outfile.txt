@@ -1,0 +1,13 @@
+================SINGLE-SERVER QUEUING SYSTEM============
+
+ ======Input Variables======
+Mean interval time: 1.0 minutes
+Mean service time: 0.5 minutes
+Number of customers: 100
+
+
+ ======Output Report======
+Average delay in queue: 0.17095 minutes
+Average number in queue: 0.18796
+Server utilization: 0.38521
+Time simulation ended: 98.96851
